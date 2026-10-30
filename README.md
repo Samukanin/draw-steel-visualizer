@@ -1,5 +1,5 @@
 # Draw Steel Ability Data Visualizer
-Live app: [<your Streamlit URL>](https://app-ap-gmzobyyngzknbbhhquzczm.streamlit.app/)
+Live app: (https://app-ap-gmzobyyngzknbbhhquzczm.streamlit.app/)
 
 ## Purpose
 An interactive Streamlit app for exploring abilities from the tabletop RPG Draw Steel.
